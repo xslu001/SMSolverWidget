@@ -1,6 +1,6 @@
 {
   "name": "smsolverwidget",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nodejs version of SMSolverWidget ",
   "main": "lib/index.js",
   "scripts": {
